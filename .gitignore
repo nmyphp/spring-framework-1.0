@@ -1,6 +1,6 @@
 # maven ignore
 target/
-*.jar
+#*.jar
 *.war
 *.zip
 *.tar
@@ -33,6 +33,8 @@ Thumbs.db
 
 .metadata
 *.orig
+
+out/
 
 # web sources
 src/main/webapp/view/
